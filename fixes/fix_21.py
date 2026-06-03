@@ -1,0 +1,1 @@
+# fix: admin users page accessible to non-admin users\n# Applied fix after detecting issue in PR #21\n
