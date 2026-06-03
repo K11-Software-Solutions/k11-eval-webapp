@@ -1,0 +1,1 @@
+# fix: file manager had path traversal vulnerability\n# Applied fix after detecting issue in PR #16\n
