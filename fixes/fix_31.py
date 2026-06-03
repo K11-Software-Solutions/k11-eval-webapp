@@ -1,0 +1,1 @@
+# fix: password change did not verify current password first\n# Applied fix after detecting issue in PR #31\n
