@@ -1,0 +1,1 @@
+# fix: user export included password hashes in CSV output\n# Applied fix after detecting issue in PR #26\n
