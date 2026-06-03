@@ -1,0 +1,1 @@
+# fix: session secret key was hardcoded in auth.py\n# Applied fix after detecting issue in PR #6\n
