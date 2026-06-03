@@ -1,0 +1,1 @@
+# fix: contact form had no CSRF protection\n# Applied fix after detecting issue in PR #11\n
