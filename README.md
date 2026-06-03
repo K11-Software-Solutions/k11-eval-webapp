@@ -1,3 +1,9 @@
-# k11-eval-webapp
+# Web App
 
-Flask web application for K11tech AQA evaluation
+## Features
+- User auth
+- Dashboard
+- Profile
+- Search
+- Admin panel
+- 2FA
